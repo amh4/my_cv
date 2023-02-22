@@ -43,7 +43,7 @@ Co-founder
 
 - We did succesfully ship and sell multiple cars over the period, navigating incredibly stringent paperwork, establishing a global supply chain, negotiating with suppliers.
 
-**Lifted** (August 2019 - November 2021)  
+**Lifted** (March 2020 - November 2021)  
 Operations Manager
 
 - Building out new systems and process across the business and managing a team covering a total of 50 members. Included such projects as automating our Recruitment Funnel, building a Sales Pipeline as as our own Track & Trace System. These systems helped create a massive boost in efficiency as the business scaled rapidly. For example, the automation of our Recruitment Funnel reduced the time processing paper applications from 3 days to less than 15 minutes by combining apps to remove the need for any paper.
@@ -51,6 +51,15 @@ Operations Manager
 - In my own time on my Christmas Holiday, which my mum wasn't happy about, I taught myself some Python for data visualistion, using Numpy, Pandas, Matplotlib and Seaborn to clean and plot the data. This started because I realised that our Carer App had useful data points on our clients' wellbeing such as their sleep, eating and hydration but we weren't utilising this data. Using Python to access and create insights off of this data we were able to deliver pro-active healthcare. For example spotting a steady decline in hydration level, a key marker for certain conditions.
 
 - Joing an early stage startup meant I was able to help shape the overall direction, sprint planning, bug capture/prioritisation across our Apps and Administration Software. Whilst my team had their own priorities during these processes I endeavoured to remain objective advocating for items that would have the biggest impact on the business. One example is the introduction of electronic medication management for the Care Team vs a long list of Operations based features. Ultimately, this went on to make the Care Team far more efficient no longer using paper files, freeing up their time to focus on raising the quality of care.
+
+**Lifted** (August 2019 - March 2020)  
+Operations Analyst
+
+- Helped the early vision for the direction of our web app and mobile apps. Included helping plot the roadmap of feature rollouts, recording and reporting on bugs and passing these changes on to our Carers in the field.
+
+- Created, formalised and scaled new processes across the recruitment pipeline, company finances such as payroll and invoicing, health care delivery and quality assurance. As a rapidly growing company we constantly had to learn and adapt our process to match our rate of growth.
+
+- Oversaw the day-to-day management of our Carers across London. Initially start with approximately 5-10 which grew to 25-30 in these early months. 
 
 **Parmenion Capital Partners** (February 2018 to June 2018)  
 Operations Associate
