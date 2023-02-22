@@ -84,32 +84,6 @@ Propietary Trader
 
 - Was the first trader to test out the remote working trading platform. Executing all trades off premises, testing the platform, reporting on issues and suggesting additional features to implement.
 
-## Skills
-
-#### Calm Under Pressue
-
-- My calmness under pressure was a foundation that was set early in my career when I became a Trader. Having to rapidly disect everything from financial data to speeches given by politicians you learn to keep a clarity of thought and objectivity whe making high stake decisions very quickly, investing millions of dollars. Then when COVID hit, whilst working in Health Care, this calmness helped navigate an unprecendted situation.
-
-- When we went into lockdown Lifted was delivering ~1,200 care visits across London each month. Almost overnight we had to implement our own Track and Trace system, as well as source and distribute 10,000+ pieces of PPE per month. At a time that would be prone to cause panic being able to remain detached and calm allowed me to see the steps we needed to implement such as, reducing Carer working circles to limit exposure, create our own 24/7 symptom reporting line and set clear comms channels with all our Clients.
-
-- By introducing these changes in a logical order, communicating the changes to all stakeholders and implementing continual improvements we had zero covid cases throughout the entirity of the pandemic amongst our Clients, the most vulnerable people. I would just like to also ackowledge the Herculean effort put in by everybody at Lifted, we had a phenomenal team.
-
-#### Communicating
-
-- Working at Hargreaves Lansdown, helping to manage the assets of over 1 million customers meant you never know which client is going to reach out next. You very quickly have to gauge the individual, start to build raport and trust then change gears for whoever you may speak to next.
-
-- When I moved to a leadership position at Lifted this ability to change gears rapidly was crucial when building bonds between teams, explaining objectives, delegating tasks and building a good culture when moving between meetings across Sales, Recruitment and the Tech Team.
-
-- Whilst I would always communicate with honesty and authenticity I could see that the Sales Team have a different communication style to the Recruitment Team. When explaining the objectives to the Sales Team I would alter the jargon I would use, the caddence at which I would speak and vary the points of emphasis. By shaping the style of communication depending on who I was working with it means you can communicate a consistent point and that nobody is left behind.
-
-- Whilst the ability to communicate across many stakeholders is important, I would always maintain honesty and authenticity. I gave a company wide presentation every week based on the previous week's metrics and there were occaisions where I was asked questions, sometimes by the CEO, that I didn't know the answer to. Rather than try to fumble my way through I would openly say that I didn't know but I am happy to find out the answer. Overtime this starts to build a culture of honesty and ownership through leading by example.
-
-#### Learning Things
-
-#### Discipline
-
-#### Business Acumen
-
 ## Education
 
 #### Makers Academy (November 2022 to March 2023)
