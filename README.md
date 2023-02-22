@@ -46,15 +46,11 @@ Co-founder
 **Lifted** (March 2020 - November 2021)  
 Operations Manager
 
-- 
+- Building out new systems and process across the business. Included such projects as automating our Recruitment Funnel, building a Sales Pipeline as well as our own Track & Trace System. These systems helped create a massive boost in efficiency as the business scaled rapidly. For example, the automation of our Recruitment Funnel reduced the time processing paper applications from 3 days to less than 15 minutes by combining apps to remove the need for manual processing.
 
+- Helped shape the overall direction, sprint planning, bug capture/prioritisation across our apps. Whilst my team had their own priorities during these processes I endeavoured to remain objective advocating for items that would have the biggest impact on the business. One example is the introduction of electronic medication management for the Care Team vs a long list of Operations based features. Ultimately, this went on to make the Care Team far more efficient no longer using paper files, freeing up their time to focus on raising the quality of care.
 
-
-- Building out new systems and process across the business and managing a team covering a total of 50 members. Included such projects as automating our Recruitment Funnel, building a Sales Pipeline as as our own Track & Trace System. These systems helped create a massive boost in efficiency as the business scaled rapidly. For example, the automation of our Recruitment Funnel reduced the time processing paper applications from 3 days to less than 15 minutes by combining apps to remove the need for any paper.
-
-- In my own time on my Christmas Holiday, which my mum wasn't happy about, I taught myself some Python for data visualistion, using Numpy, Pandas, Matplotlib and Seaborn to clean and plot the data. This started because I realised that our Carer App had useful data points on our clients' wellbeing such as their sleep, eating and hydration but we weren't utilising this data. Using Python to access and create insights off of this data we were able to deliver pro-active healthcare. For example spotting a steady decline in hydration level, a key marker for certain conditions.
-
-- Joing an early stage startup meant I was able to help shape the overall direction, sprint planning, bug capture/prioritisation across our Apps and Administration Software. Whilst my team had their own priorities during these processes I endeavoured to remain objective advocating for items that would have the biggest impact on the business. One example is the introduction of electronic medication management for the Care Team vs a long list of Operations based features. Ultimately, this went on to make the Care Team far more efficient no longer using paper files, freeing up their time to focus on raising the quality of care.
+- Adopted Agile methodolies for my own team such as daily standups and weekly retros. Whilst not being a tech team this helped us have great visibility over a large range of responsibilites. The weekly retros allowed us to objectively look at how we worked which was crucial to being able to adapt and deal with the consistent fast growth of the company.
 
 **Lifted** (August 2019 - March 2020)  
 Operations Analyst
