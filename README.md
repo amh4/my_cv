@@ -57,7 +57,7 @@ Operations Analyst
 
 - Worked closely with our Tech Team on our web app and mobile apps. Included helping plot the roadmap of feature rollouts, recording and reporting on bugs and passing these changes on to our Carers in the field.
 
-- Oversaw the day-to-day management of our Carers across London. Starting with 5-10 Carers which grew to 25-30 in these early months. Integral to this was quickly building relationships with people from a range of backgrounds and getting them to buy into our collective mission. From this buy in we were able to really push our growth to help more and more people thanks to the dedication and motivation of our Carers.
+- Oversaw the day-to-day management of our Carers across London. Starting with 5-10 Carers which grew to 25-30 in these early months. Integral to this was quickly building relationships and getting them to buy into our collective mission. From this buy in we were able to really push our growth to help more people.
 
 - Created a [Python Programme](https://github.com/amh4/wellness_automation) to harness this data we had to start delivering care from a pro-active approach. This insight was then integrated into the regular healthcare checks our Care Team would perform for our Clients. Allowing them to spot trends and get ahead of potential issues.
 
