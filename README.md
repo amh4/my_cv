@@ -114,13 +114,18 @@ Propietary Trader
 
 #### Makers Academy (November 2022 to March 2023)
 
+SPLIT INTO TECH AND SKILLS
+
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below:
 - OOP, TDD, MVC
 - Agile
 - Ruby, JavaScript, React
+- HTML, CSS
 - RSpec, Jest
+- SQL, Postgres, MongoDB
+- Postman
 - Paired Programming
 
 #### University of Plymouth (2010 to 2014)
