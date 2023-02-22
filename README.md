@@ -117,10 +117,11 @@ Propietary Trader
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below:
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- OOP, TDD, MVC
+- Agile
+- Ruby, JavaScript, React
+- RSpec, Jest
+- Paired Programming
 
 #### University of Plymouth (2010 to 2014)
 
