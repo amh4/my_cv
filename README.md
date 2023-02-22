@@ -66,7 +66,9 @@ Operations Associate
 
 - Assisted in the project to automate daily payment processing specififying and communicating the operational requirements for the new system accurately in meetings with the Development Team. Leading to a new system that saved up to 30 minutes of work per day.
 
-- Throughout all projects there was a culture of accountability and decisive action which helped to build trust both internally and externally. Where any issues were encountered an incident log would be recorded. Analysing why the issue arose, whether it was likely to occur again, our immediate action to resolve it as well as the permanent fix. Because of this culture, I am now confident in adapting quickly to respond to unforeseen problems.
+- Part of the team responsible for processing all client asset movements accounting for millions of pounds each day.
+
+- There was a strong culture of accountability and decisive action which helped to build trust both internally and externally. Where any issues were encountered an incident log would be recorded. Analysing why the issue arose, whether it was likely to occur again, our immediate action to resolve it as well as the permanent fix. 
 
 **Hargreaves Lansdown** (January 2017 to February 2018)  
 Investment Helpdesk Consultant
