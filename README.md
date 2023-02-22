@@ -46,6 +46,10 @@ Co-founder
 **Lifted** (March 2020 - November 2021)  
 Operations Manager
 
+- 
+
+
+
 - Building out new systems and process across the business and managing a team covering a total of 50 members. Included such projects as automating our Recruitment Funnel, building a Sales Pipeline as as our own Track & Trace System. These systems helped create a massive boost in efficiency as the business scaled rapidly. For example, the automation of our Recruitment Funnel reduced the time processing paper applications from 3 days to less than 15 minutes by combining apps to remove the need for any paper.
 
 - In my own time on my Christmas Holiday, which my mum wasn't happy about, I taught myself some Python for data visualistion, using Numpy, Pandas, Matplotlib and Seaborn to clean and plot the data. This started because I realised that our Carer App had useful data points on our clients' wellbeing such as their sleep, eating and hydration but we weren't utilising this data. Using Python to access and create insights off of this data we were able to deliver pro-active healthcare. For example spotting a steady decline in hydration level, a key marker for certain conditions.
@@ -55,13 +59,11 @@ Operations Manager
 **Lifted** (August 2019 - March 2020)  
 Operations Analyst
 
-- Helped the early vision for the direction of our web app and mobile apps. Included helping plot the roadmap of feature rollouts, recording and reporting on bugs and passing these changes on to our Carers in the field.
+- Worked closely with our Tech Team on our web app and mobile apps. Included helping plot the roadmap of feature rollouts, recording and reporting on bugs and passing these changes on to our Carers in the field.
 
-- Created, formalised and scaled new processes across the recruitment pipeline, company finances such as payroll and invoicing, health care delivery and quality assurance. As a rapidly growing company we constantly had to learn and adapt our process to match our rate of growth.
+- Oversaw the day-to-day management of our Carers across London. Initially start with approximately 5-10 which grew to 25-30 in these early months. Integral to this was quickly building relationships with people from a huge range of backgrounds and getting them to buy into our collective mission. From this buy in we were able to really push our growth to help more and more people thanks to the dedication and motivation of our Carers.
 
-- Oversaw the day-to-day management of our Carers across London. Initially start with approximately 5-10 which grew to 25-30 in these early months. 
-
-- Created a [Python Programme](https://github.com/amh4/wellness_automation) to harness this data we had to start delivering care from a pro-active approach.
+- Created a [Python Programme](https://github.com/amh4/wellness_automation) to harness this data we had to start delivering care from a pro-active approach. This insight was then integrated into the regular healthcare checks our Care Team would perform for our Clients. Allowing them to spot trends and get ahead of potential issues.
 
 **Parmenion Capital Partners** (February 2018 to June 2018)  
 Operations Associate
