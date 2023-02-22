@@ -4,7 +4,7 @@
 
 The most genuine way I can describe myself is someone that is incredibly curious, fundamentally loves to learn and build things. Whether it's learning via books, podcasts, youtube videos or meeting interesting people I genuinely enjoy it all. My girlfriend and I are due to move in together soon and her main concern is that our flat will look like a library...which it probably will.
 
-I've always found that I'm drawn to big challenges where the learning curve never really plateaus. Early on this manifested itself working in Financial Markets where the environment is always changing and the depth of knowledge required is never ending. After spending 5 years in that sector I decided to take on a new challenge after becoming aware of problem in this country that needs to be addressed.
+I've always found that I'm drawn to big challenges where the learning curve never really plateaus. Early on this manifested itself working in Financial Markets where the environment is always changing and the depth of knowledge required is never ending. After spending 5 years in that sector I decided to take on a new challenge after becoming aware of a problem in this country that needs to be addressed.
 
 Through personal circumstance one issue that my family got first hand experience in is how much the Home Care Sector is struggling in the U.K.
 
