@@ -61,6 +61,8 @@ Operations Analyst
 
 - Oversaw the day-to-day management of our Carers across London. Initially start with approximately 5-10 which grew to 25-30 in these early months. 
 
+- Created a [Python Programme](https://github.com/amh4/wellness_automation) to harness this data we had to start delivering care from a pro-active approach.
+
 **Parmenion Capital Partners** (February 2018 to June 2018)  
 Operations Associate
 
