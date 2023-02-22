@@ -46,9 +46,9 @@ Co-founder
 **Lifted** (March 2020 - November 2021)  
 Operations Manager
 
-- Building out new systems and process across the business. Included such projects as automating our Recruitment Funnel, building a Sales Pipeline as well as our own Track & Trace System. These systems helped create a massive boost in efficiency as the business scaled rapidly. For example, the automation of our Recruitment Funnel reduced the time processing paper applications from 3 days to less than 15 minutes by combining apps to remove the need for manual processing.
+- Building out new systems and process across the business. Included such projects as automating our Recruitment Funnel, building a Sales Pipeline as well as our own Track & Trace System. For example, the automation of our Recruitment Funnel reduced the time processing paper applications from 3 days to less than 15 minutes by combining apps to remove the need for manual processing.
 
-- Helped shape the overall direction, sprint planning, bug capture/prioritisation across our apps. Whilst my team had their own priorities during these processes I endeavoured to remain objective advocating for items that would have the biggest impact on the business. One example is the introduction of electronic medication management for the Care Team vs a long list of Operations based features. Ultimately, this went on to make the Care Team far more efficient no longer using paper files, freeing up their time to focus on raising the quality of care.
+- Helped shape the overall direction, sprint planning, bug capture/prioritisation across our apps. Working closely with our Tech Team we would map out what needed to covered in upcoming sprints to match business needs, organise testing parties before rollouts and help with the rollout of new features across the business.
 
 - Adopted Agile methodolies for my own team such as daily standups and weekly retros. Whilst not being a tech team this helped us have great visibility over a large range of responsibilites. The weekly retros allowed us to objectively look at how we worked which was crucial to being able to adapt and deal with the consistent fast growth of the company.
 
@@ -57,7 +57,7 @@ Operations Analyst
 
 - Worked closely with our Tech Team on our web app and mobile apps. Included helping plot the roadmap of feature rollouts, recording and reporting on bugs and passing these changes on to our Carers in the field.
 
-- Oversaw the day-to-day management of our Carers across London. Initially start with approximately 5-10 which grew to 25-30 in these early months. Integral to this was quickly building relationships with people from a huge range of backgrounds and getting them to buy into our collective mission. From this buy in we were able to really push our growth to help more and more people thanks to the dedication and motivation of our Carers.
+- Oversaw the day-to-day management of our Carers across London. Starting with 5-10 Carers which grew to 25-30 in these early months. Integral to this was quickly building relationships with people from a range of backgrounds and getting them to buy into our collective mission. From this buy in we were able to really push our growth to help more and more people thanks to the dedication and motivation of our Carers.
 
 - Created a [Python Programme](https://github.com/amh4/wellness_automation) to harness this data we had to start delivering care from a pro-active approach. This insight was then integrated into the regular healthcare checks our Care Team would perform for our Clients. Allowing them to spot trends and get ahead of potential issues.
 
@@ -73,7 +73,7 @@ Investment Helpdesk Consultant
 
 - Co-led a project to improve the client messaging system as the organisation grew to over 1 million clients. Successfully took the idea through the concept phase, management review and implementation. This improved the speed at which we could respond to client enquiries by 20 to 30%, thus maintaining a high level of service during a key growth phase.
 
-- Established and developed relationships with clients from a vast range of backgrounds through face-to-face meetings, phone calls and emails with the elderly, disabled and near end-of-life. Prioritising the needs of the client, no matter how small, whilst always offering empathy and patience was fundamental to all of my interactions with our clients and foundational to a high level of service. This contributed to multiple awards for best customer service within the sector.
+- Established and developed relationships with clients from a range of backgrounds through face-to-face meetings, phone calls and emails. Prioritising the needs of the client, no matter how small, whilst always offering empathy and patience was fundamental to all of my interactions with our clients and foundational to a high level of service. This contributed to multiple awards for best customer service within the sector.
 
 **Blueprint Capital - G7 Currency Markets** (December 2014 - November 2016)
 Propietary Trader
