@@ -78,7 +78,7 @@ Investment Helpdesk Consultant
 **Blueprint Capital - G7 Currency Markets** (December 2014 - November 2016)
 Propietary Trader
 
-- Responsible for $6 million per week in trading volume across all G7 Currency pairs.
+- Responsible for allocating $6 million per week in trading volume across all G7 Currency pairs.
 
 - Rapidly process information to make balanced investment decisions with solid risk management.
 
