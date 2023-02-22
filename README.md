@@ -46,7 +46,7 @@ Co-founder
 **Lifted** (March 2020 - November 2021)  
 Operations Manager
 
-- Building out new systems and process across the business. Included such projects as automating our Recruitment Funnel, building a Sales Pipeline as well as our own Track & Trace System. For example, the automation of our Recruitment Funnel reduced the time processing paper applications from 3 days to less than 15 minutes by combining apps to remove the need for manual processing.
+- Building out new systems and process across the business. Included projects like automating our Recruitment Funnel, building a Sales Pipeline and our own Track & Trace System. For example, the automation of our Recruitment Funnel reduced the processing time from 3 days to less than 15 minutes by combining apps to remove the need for manual processing.
 
 - Helped shape the overall direction, sprint planning, bug capture/prioritisation across our apps. Working closely with our Tech Team we would map out what needed to covered in upcoming sprints to match business needs, organise testing parties before rollouts and help with the rollout of new features across the business.
 
