@@ -12,7 +12,12 @@ So what did I do?
 
 After some deliberation I decided that I didn't want to ignore this problem and I wanted to try to help. I then left my career in Asset Management to join a brand new startup as employee number 4 and we were going to try to fix it. We focused on building the future of care at home for the elderly and disabled both from the Health Care side and the Tech side.
 
-Joining at the very start was an incredible experience seeing all the people we could help, the tech stack we built from scratch to empower the families and Carers as well as my own personal growth. I helped see the company through our Seed, Series A and Series B Venture Capital fund raising, managed a team of 50+ people and became somewhat of a [Winston Wolf](https://www.youtube.com/watch?v=ZfwgmEn4oUc) from Pulp Fiction. If there was any a problem that had to be solved, I was there to help.
+Joining at the very start was an incredible experience seeing all the people we could help, the tech stack we built from scratch to empower the families and Carers as well as my own personal growth. I helped see the company through our Seed and Series A Venture Capital fund raising, managed a team of 50+ people and became somewhat of a [Winston Wolf](https://www.youtube.com/watch?v=ZfwgmEn4oUc) from Pulp Fiction. If there was any a problem that had to be solved, I was there to help.
+
+A few of things about what we did:
+
+[Our Initial TechCrunch launch piece](https://techcrunch.com/2019/09/25/social-care-startup-lifted-raises-1-5m-for-end-to-end-elderly-care-platform/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALkZiOMlfsXbyoJrgmXjuyoG8BHY-9P_2a0FjZqZMSIgwzrQbQlDIqhQjTubA7JzWSlYPG1uCTtdTqKKUVE2Tbh1BJCON5NSX7kvqDhuAs79-dPOxgHPlNGYe-eYf-oTWT9UtvdlTe-Wli20fLUhtVSCJTJp7zFaV9F-gShJgdaT)
+[Our Series A](https://techcrunch.com/2021/06/08/lifted-raises-6-2m-series-a-round-led-by-fuel-ventures-for-its-long-term-social-care-platform/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABSUng6l-pVmHHnqN4wLL3cCAV1CiTazCgQFu1X12IZVmNp7uzrWFR0DnXhqpNO0QzlffItceUE1JyYEsKtwYGZ7pL3m227rmLnCV1c8f6P84JCTD1wj4Pe_z_P-R1wvEGLPVahz0SoSOVtHqszpea-1RfXHcmkLdpq7-iRGB7Qi)
 
 I often think that I would need a thousand lifetimes to try and pursue everything I find interesting but sadly that’s not an option right now. After the worst of the pandemic was over I have taken the time to evaluate what I truly enjoy doing; building things, solving problems and being on a never ending learning curve. With that in mind and being heavily exposed to the tech development process at Lifted I decided to become a Software Engineer. Something which I can't believe I didn't think of years ago!
 
