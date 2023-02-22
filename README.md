@@ -29,8 +29,7 @@ I often think that I would need a thousand lifetimes to try and pursue everythin
 | Name                    | Description                                                                         | Tech/tools                  |
 | ----------------------- | ----------------------------------------------------------------------------------- | -----------------           |
 | **Final project**       | A webapp to do x.                                                                   | React, Jest, etc.           |
-| **Acebook**             | A social media web app that allows users to post, edit their content, add friends   | Javascript, React,          |
-|                         | and more                                                                            | Node, Jest, Cypress, MongoDB|
+| **Acebook**             | A social media web app that allows users to post, edit their content, add friends and more   | Javascript, React, Node, Jest, Cypress, MongoDB          |
 | **Wellness Automation** | Created a Python programme to aggregate, clean and present healthcare data.         | Python                      |
 
 ## Work Experience
