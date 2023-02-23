@@ -35,9 +35,9 @@ I often think that I would need a thousand lifetimes to try and pursue everythin
 |[News Site](https://github.com/amh4/newsapi-project) | Populates a web app using the Guardian API. The user can view the most recent stories and search by categories, each accompanied with it's photo |Solo|Javascript, Jest, HTML, CSS|
 |[Health Tracker](https://github.com/amh4/health_tracker) | A programme to aggregate, clean and present timeseries healthcare data for proactive care delivery |Solo| Python|
 |[Neural Networks](https://github.com/amh4/neural_networks) | Deep learning predictive models that predict if a song will be a hit, hotel booking cancellation likelihood and the strength of concrete |Solo| Python |
-|[Notes App](https://github.com/amh4/javascript-notes-app)| Web based notes app |Solo|Javascript, HTML, CSS, Jest|
 |[Shop Manager System](https://github.com/amh4/shop-manager-challenge/tree/main/lib)| A store system to help create and manage orders |Solo|Ruby, SQL, RSpec|
 |[Takeaway Order System](https://github.com/amh4/takeaway_order_system)| The user can browse a menu, place orders and receive text updates via the Twilio API |Solo| Ruby, RSpec, TwilioAPI|
+|[Notes App](https://github.com/amh4/javascript-notes-app)| Web based notes app where user can add notes |Solo|Javascript, HTML, CSS, Jest|
 
 Other technologies and principles include: **Agile, OOP, TDD, MVC, DOM, Paired Programming, Tableplus, Postman, Render**
 
