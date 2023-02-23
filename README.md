@@ -39,6 +39,8 @@ A collection of group projects built using Agile methods as well as solo project
 |[Shop Manager System](https://github.com/amh4/shop-manager-challenge/tree/main/lib)| A store system to help create and manage orders |Solo|Ruby, SQL, RSpec|
 |[Takeaway Order System](https://github.com/amh4/takeaway_order_system)| The user can browse a menu, place orders and receive text updates via the Twilio API |Solo| Ruby, RSpec, TwilioAPI|
 
+Other technologies include: **Tableplus, Postman, Render**
+
 ## Work Experience
 
 **Roland Bailey Imports US** (July 2020 - July 2022)
@@ -99,9 +101,9 @@ Propietary Trader
 
 SPLIT INTO TECH AND SKILLS
 
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below:
+- Worked in groups of 4-6 members using Agile methods. Sprint planning, daily standups and retors.
+- Routinely user pair programming to approach problems and get fresh perspectives on how to solve them.
+- Used TDD to create every project, test driving them from the ground up
 - OOP, TDD, MVC
 - Agile
 - Ruby, JavaScript, React
