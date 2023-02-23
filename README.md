@@ -12,7 +12,7 @@ After some deliberation I left my career in Asset Management to join a brand new
 
 Joining at the very start was an incredible experience seeing all the people we could help, the tech stack we built and my own personal growth. I helped see the company through our Seed and Series A Venture Capital fund raising, managed a team of 50+ people.
 
-A few of things about what we did:
+**A few of things about what we did:**
 
 [TechCrunch - Launch Coverage](https://techcrunch.com/2019/09/25/social-care-startup-lifted-raises-1-5m-for-end-to-end-elderly-care-platform/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALkZiOMlfsXbyoJrgmXjuyoG8BHY-9P_2a0FjZqZMSIgwzrQbQlDIqhQjTubA7JzWSlYPG1uCTtdTqKKUVE2Tbh1BJCON5NSX7kvqDhuAs79-dPOxgHPlNGYe-eYf-oTWT9UtvdlTe-Wli20fLUhtVSCJTJp7zFaV9F-gShJgdaT)
 
