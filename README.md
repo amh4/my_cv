@@ -22,7 +22,7 @@ A few of things about what we did:
 
 I often think that I would need a thousand lifetimes to try and pursue everything I find interesting but sadly that’s not an option right now. After the worst of the pandemic was over for the healthcare sector I have taken the time to evaluate what I truly enjoy doing; building things, solving problems and being on a never ending learning curve. With that in mind and being heavily exposed to the tech development process at Lifted I decided to become a Software Engineer. Something which I can't believe I didn't think of years ago!
 
-## Projects
+## Projects :building_construction:
 **A selection of group/solo projects built using Agile methods as well as solo projects**
 
 | Name                    | Description                                    |Group/Solo                      | Tech/tools                  |
@@ -39,7 +39,7 @@ I often think that I would need a thousand lifetimes to try and pursue everythin
 
 Other technologies and principles include: **Agile, OOP, TDD, MVC, DOM, Paired Programming, Tableplus, Postman, Render**
 
-## Experience
+## Experience :briefcase:
 **Makers** (November 2022 - March 2023)
 Software Engineering Student
 
@@ -91,7 +91,7 @@ Investment Helpdesk Consultant
 - Rapidly process information to make balanced investment decisions with solid risk management.
 - Was the first trader to test out the remote working trading platform. Executing all trades off premises, testing the platform, reporting on issues and suggesting additional features to implement.
 
-## Education
+## Education :school:
 
 ### University of Plymouth (2010 to 2014)
 
