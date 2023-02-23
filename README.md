@@ -31,7 +31,7 @@ I often think that I would need a thousand lifetimes to try and pursue everythin
 | **Final project**       | A webapp to do x.                                                                   | React, Jest, etc.           |
 | [Acebook](https://github.com/amh4/acebook-social-media-app)| A social media web app that allows users to post, edit their content, add friends and more   | Javascript, React, Node, Jest, Cypress, MongoDB, HTML, CSS, Express|
 | [MakersBnB]() | AirBnB clone | Ruby, HTML, CSS, Active Record |
-| [New Site](https://github.com/amh4/newsapi-project) | Using the Guardian API the user can view the most recent stories and search by categories |Javascript, Jest, HTML, CSS|
+| [News Site](https://github.com/amh4/newsapi-project) | Using the Guardian API the user can view the most recent stories and search by categories |Javascript, Jest, HTML, CSS|
 | [Health Tracker](https://github.com/amh4/health_tracker) | Created a Python programme to aggregate, clean and present healthcare data.| Python|
 |[Neural Networks](https://github.com/amh4/neural_networks) | Deep learning predictive models | Python |
 
