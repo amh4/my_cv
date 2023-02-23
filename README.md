@@ -33,8 +33,8 @@ I often think that I would need a thousand lifetimes to try and pursue everythin
 |[Banking App](https://github.com/amh4/bank-tech-test)| Technical test completed to 24 hour deadline. Allows the user to use core bank features such as deposit/withdraw and print formatted statements |Solo|Javascript, Node, Jest|
 |[MakersBnB](https://github.com/tmccoy99/engineering-project-1) | AirBnB clone made in week 5 of the course. Users can register, log in, list/rent properties and approve/reject bookings and receive email notifications |Group| Ruby, HTML, CSS, Active Record, RSpec |
 |[News Site](https://github.com/amh4/newsapi-project) | Populates a web app using the Guardian API. The user can view the most recent stories and search by categories, each accompanied with it's photo |Solo|Javascript, Jest, HTML, CSS|
-|[Health Tracker](https://github.com/amh4/health_tracker) | A programme to aggregate, clean and present timeseries healthcare data for proactive care delivery |Solo| Python|
-|[Neural Networks](https://github.com/amh4/neural_networks) | Deep learning predictive models that predict if a song will be a hit, hotel booking cancellation likelihood and the strength of concrete |Solo| Python |
+|[Health Tracker](https://github.com/amh4/health_tracker) | A programme to aggregate, clean and present timeseries healthcare data for proactive care delivery |Solo| Python, Numpy, Pandas, Matplotlib, Seaborn|
+|[Neural Networks](https://github.com/amh4/neural_networks) | Deep learning predictive models that predict if a song will be a hit, hotel booking cancellation likelihood and the strength of concrete |Solo| Python, Scikit-learn, Tensorflow, Matplotlib |
 |[Shop Manager System](https://github.com/amh4/shop-manager-challenge/tree/main/lib)| A store system to help create and manage orders |Solo|Ruby, SQL, RSpec|
 |[Takeaway Order System](https://github.com/amh4/takeaway_order_system)| The user can browse a menu, place orders and receive text updates via the Twilio API |Solo| Ruby, RSpec, TwilioAPI|
 |[Notes App](https://github.com/amh4/javascript-notes-app)| Web based notes app where user can add notes |Solo|Javascript, HTML, CSS, Jest|
