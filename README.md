@@ -31,10 +31,13 @@ A collection of group projects built using Agile methods as well as solo project
 | ----------------------- | -----------------------------------------------|------------------------------------ | -----------------           |
 | [Acebook](https://github.com/amh4/acebook-social-media-app)| A social media web app that allows users to post, edit their content, add friends and more |Group| Javascript, React, Node, Jest, Cypress, MongoDB, HTML, CSS, Express|
 |[Banking App](https://github.com/amh4/bank-tech-test)| Technical test completed to deadline. Allows the user to use core bank features |Solo|Javascript, Node, Jest|
-| [MakersBnB](https://github.com/tmccoy99/engineering-project-1) | AirBnB clone made in week 5 of the course |Group| Ruby, HTML, CSS, Active Record |
+| [MakersBnB](https://github.com/tmccoy99/engineering-project-1) | AirBnB clone made in week 5 of the course |Group| Ruby, HTML, CSS, Active Record, RSpec |
 | [News Site](https://github.com/amh4/newsapi-project) | Using the Guardian API the user can view the most recent stories and search by categories |Solo|Javascript, Jest, HTML, CSS|
 | [Health Tracker](https://github.com/amh4/health_tracker) | Created a Python programme to aggregate, clean and present healthcare data |Solo| Python|
 |[Neural Networks](https://github.com/amh4/neural_networks) | Deep learning predictive models |Solo| Python |
+|[Notes App](https://github.com/amh4/javascript-notes-app)| Web based notes app |Solo|Javascript, HTML, CSS, Jest|
+|[Shop Manager System](https://github.com/amh4/shop-manager-challenge/tree/main/lib)| A store system to help create and manage orders |Solo|Ruby, SQL, RSpec|
+|[Takeaway Order System](https://github.com/amh4/takeaway_order_system)| The user can browse a menu, place orders and receive text updates via the Twilio API |Solo| Ruby, RSpec, TwilioAPI|
 
 ## Work Experience
 
