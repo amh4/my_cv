@@ -52,8 +52,8 @@ Software Engineering Student
 **Co-founder**
 
 - Created a company that sourced classic cars in Europe, shipped them to the US and sold them.
-- Given the timescales involved in our product life cycles we began the process prior to COVID. As the economic cost of COVID have lingered with regards to container shipping cost spiking massively, car parts manufacturing delays and the general economic downturn we made the hard decision to stop the business.
-- We did succesfully ship and sell multiple cars over the period, navigating incredibly stringent paperwork, establishing a global supply chain, negotiating with suppliers.
+- Generated over $50,000 in our first 12 months
+- Given the timescales involved in our product life cycles we began the process prior to COVID. As the economic cost of COVID lingered with regards to container shipping cost, car parts manufacturing delays and the general economic downturn we made the hard decision to stop the business.
 
 **Lifted** (March 2020 - November 2021)  
 **Operations Manager**
