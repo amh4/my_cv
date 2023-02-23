@@ -29,8 +29,8 @@ I often think that I would need a thousand lifetimes to try and pursue everythin
 
 | Name                    | Description                                    |Group/Solo                      | Tech/tools                  |
 | ----------------------- | -----------------------------------------------|------------------------------------ | -----------------           |
-| [Acebook](https://github.com/amh4/acebook-social-media-app)| A social media web app that allows users to post, edit their content, add friends and more |Group| Javascript, React, Node, Jest, Cypress, MongoDB, HTML, CSS, Express|
-|[Banking App](https://github.com/amh4/bank-tech-test)| Technical test completed to deadline. Allows the user to use core bank features |Solo|Javascript, Node, Jest|
+| [Acebook](https://github.com/amh4/acebook-social-media-app)| A React social media web app that allows users register/log in, to post, edit their contents, comment on posts, like posts, delete posts and add friends|Group| Javascript, React, Node, Jest, Cypress, MongoDB, HTML, CSS, Express|
+|[Banking App](https://github.com/amh4/bank-tech-test)| Technical test completed to 24 hour deadline. Allows the user to use core bank features such as deposit/withdraw and print formatted statements |Solo|Javascript, Node, Jest|
 | [MakersBnB](https://github.com/tmccoy99/engineering-project-1) | AirBnB clone made in week 5 of the course. Users can register, log in, list/rent properties and approve/reject bookings and receive email notifications |Group| Ruby, HTML, CSS, Active Record, RSpec |
 | [News Site](https://github.com/amh4/newsapi-project) | Using the Guardian API the user can view the most recent stories and search by categories |Solo|Javascript, Jest, HTML, CSS|
 | [Health Tracker](https://github.com/amh4/health_tracker) | Created a Python programme to aggregate, clean and present healthcare data |Solo| Python|
