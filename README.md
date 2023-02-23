@@ -2,17 +2,15 @@
 
 ### Who I Am
 
-The most genuine way I can describe myself is someone that is incredibly curious, fundamentally loves to learn and build things. Whether it's learning via books, podcasts, youtube videos or meeting interesting people I genuinely enjoy it all. My girlfriend and I are due to move in together soon and her main concern is that our flat will look like a library...which it probably will.
+The most genuine way I can describe myself is someone that fundamentally loves to learn and build things. Whether it's learning via books, podcasts, youtube videos or meeting interesting people I enjoy it all. My girlfriend and I are due to move in together soon and her main concern is that our flat will look like a library...which it probably will.
 
-I've always found that I'm drawn to big challenges where the learning curve never really plateaus. Early on this manifested itself working in Financial Markets where the environment is always changing and the depth of knowledge required is never ending. After spending 5 years in that sector I decided to take on a new challenge after becoming aware of a problem in this country that needs to be addressed.
+I've always been drawn to big challenges where the learning curve never really plateaus. After spending 5 years in Financial Markets where the environment is always changing and the depth of knowledge required is never ending. I decided to take on a new challenge after becoming aware of a problem that I wanted to try and help fix.
 
 Through personal circumstance one issue that my family got first hand experience in is how much the Home Care Sector is struggling in the U.K.
 
-So what did I do?
+After some deliberation I left my career in Asset Management to join a brand new startup as employee number 4 and we were going to try to fix it. We focused on building the Tech for future of care at home for the elderly and disabled as well as delivering care too.
 
-After some deliberation I decided that I didn't want to ignore this problem and I wanted to try to help. I then left my career in Asset Management to join a brand new startup as employee number 4 and we were going to try to fix it. We focused on building the future of care at home for the elderly and disabled both from the Health Care side and the Tech side.
-
-Joining at the very start was an incredible experience seeing all the people we could help, the tech stack we built from scratch to empower the families and Carers as well as my own personal growth. I helped see the company through our Seed and Series A Venture Capital fund raising, managed a team of 50+ people and became somewhat of a [Winston Wolf](https://www.youtube.com/watch?v=ZfwgmEn4oUc) from Pulp Fiction. If there was any a problem that had to be solved, I was there to help.
+Joining at the very start was an incredible experience seeing all the people we could help, the tech stack we built and my own personal growth. I helped see the company through our Seed and Series A Venture Capital fund raising, managed a team of 50+ people.
 
 A few of things about what we did:
 
@@ -54,9 +52,7 @@ Software Engineering Student
 Co-founder
 
 - Created a company that sourced classic cars in Europe, shipped them to the US and sold them.
-
 - Given the timescales involved in our product life cycles we began the process prior to COVID. As the economic cost of COVID have lingered with regards to container shipping cost spiking massively, car parts manufacturing delays and the general economic downturn we made the hard decision to stop the business.
-
 - We did succesfully ship and sell multiple cars over the period, navigating incredibly stringent paperwork, establishing a global supply chain, negotiating with suppliers.
 
 **Lifted** (March 2020 - November 2021)  
