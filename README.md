@@ -25,7 +25,7 @@ A few of things about what we did:
 I often think that I would need a thousand lifetimes to try and pursue everything I find interesting but sadly that’s not an option right now. After the worst of the pandemic was over I have taken the time to evaluate what I truly enjoy doing; building things, solving problems and being on a never ending learning curve. With that in mind and being heavily exposed to the tech development process at Lifted I decided to become a Software Engineer. Something which I can't believe I didn't think of years ago!
 
 ## Projects
-A collection of group projects built using Agile methods as well as solo projects
+**A collection of group projects built using Agile methods as well as solo projects**
 
 | Name                    | Description                                    |Group/Solo                      | Tech/tools                  |
 | ----------------------- | -----------------------------------------------|------------------------------------ | -----------------           |
@@ -39,7 +39,7 @@ A collection of group projects built using Agile methods as well as solo project
 |[Shop Manager System](https://github.com/amh4/shop-manager-challenge/tree/main/lib)| A store system to help create and manage orders |Solo|Ruby, SQL, RSpec|
 |[Takeaway Order System](https://github.com/amh4/takeaway_order_system)| The user can browse a menu, place orders and receive text updates via the Twilio API |Solo| Ruby, RSpec, TwilioAPI|
 
-Other technologies include: **Tableplus, Postman, Render**
+Other technologies and principles include: **Agile, OOP, TDD, MVC, DOM, Paired Programming, Tableplus, Postman, Render**
 
 ## Work Experience
 
@@ -104,14 +104,7 @@ SPLIT INTO TECH AND SKILLS
 - Worked in groups of 4-6 members using Agile methods. Sprint planning, daily standups and retors.
 - Routinely user pair programming to approach problems and get fresh perspectives on how to solve them.
 - Used TDD to create every project, test driving them from the ground up
-- OOP, TDD, MVC
-- Agile
-- Ruby, JavaScript, React
-- HTML, CSS
-- RSpec, Jest
-- SQL, Postgres, MongoDB
-- Postman
-- Paired Programming
+- For more details please see **Projects** section above
 
 #### University of Plymouth (2010 to 2014)
 
