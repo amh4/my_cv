@@ -32,7 +32,7 @@ I often think that I would need a thousand lifetimes to try and pursue everythin
 | **Acebook**             | A social media web app that allows users to post, edit their content, add friends and more   | Javascript, React, Node, Jest, Cypress, MongoDB, HTML, CSS, Express          |
 | **MakersBnB** | AirBnB clone | Ruby, HTML, CSS, Active Record |
 | **News Site** | Using the Guardian API the user can view the most recent stories and search by categories |Javascript, Jest, HTML, CSS|
-| **Wellness Automation** | Created a Python programme to aggregate, clean and present healthcare data.         | Python                      |
+| [Health Tracker](https://github.com/amh4/health_tracker) | Created a Python programme to aggregate, clean and present healthcare data.| Python|
 |[Neural Networks](https://github.com/amh4/neural_networks) | Deep learning models | Python |
 
 ## Work Experience
