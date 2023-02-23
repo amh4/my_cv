@@ -99,10 +99,8 @@ Propietary Trader
 
 #### Makers Academy (November 2022 to March 2023)
 
-SPLIT INTO TECH AND SKILLS
-
-- Worked in groups of 4-6 members using Agile methods. Sprint planning, daily standups and retors.
-- Routinely user pair programming to approach problems and get fresh perspectives on how to solve them.
+- Worked in groups of 4-8 members using Agile methods. Sprint planning, daily standups and retros.
+- Routinely used pair programming to approach problems and get fresh perspectives on how to solve them.
 - Used TDD to create every project, test driving them from the ground up
 - For more details please see **Projects** section above
 
@@ -125,4 +123,4 @@ SPLIT INTO TECH AND SKILLS
 
 ## Hobbies
 
-Going outside my comfort zone. Going to countries where I don't speak the language, no phone data and just going for it. Went to the Matterhorn, going to Everest next year. Played golf, tennis, football, rugby, american football, squash and my knees certainly feel like it. If you hire me apologies for the sound I make as I stand up from my chair, its involuntary.
+Going outside my comfort zone. Going to countries where I don't speak the language, no phone data and just going for it. Recently visiting the Matterhorn and we plan on going to Everest next year. I have played golf, tennis, football, rugby, american football, squash and my knees certainly feel like it. If you hire me apologies for the sound I make as I stand up from my chair, it's involuntary.
