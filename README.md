@@ -25,7 +25,7 @@ A few of things about what we did:
 I often think that I would need a thousand lifetimes to try and pursue everything I find interesting but sadly that’s not an option right now. After the worst of the pandemic was over I have taken the time to evaluate what I truly enjoy doing; building things, solving problems and being on a never ending learning curve. With that in mind and being heavily exposed to the tech development process at Lifted I decided to become a Software Engineer. Something which I can't believe I didn't think of years ago!
 
 ## Projects
-**A collection of group projects built using Agile methods as well as solo projects**
+**A selection of group/solo projects built using Agile methods as well as solo projects**
 
 | Name                    | Description                                    |Group/Solo                      | Tech/tools                  |
 | ----------------------- | -----------------------------------------------|------------------------------------ | -----------------           |
