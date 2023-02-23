@@ -40,7 +40,7 @@ I often think that I would need a thousand lifetimes to try and pursue everythin
 Other technologies and principles include: **Agile, OOP, TDD, MVC, DOM, Paired Programming, Tableplus, Postman, Render**
 
 ## Experience :briefcase:
-**Makers** (November 2022 - March 2023)
+**Makers** (November 2022 - March 2023)<br />
 Software Engineering Student
 
 - Worked in groups of 4-8 members using Agile methods. Sprint planning, daily standups and retros.
@@ -48,36 +48,36 @@ Software Engineering Student
 - Used TDD to create every project, test driving them from the ground up
 - For more details please see **Projects** section above
 
-**Roland Bailey Imports US** (July 2020 - July 2022)
-Co-founder
+**Roland Bailey Imports US** (July 2020 - July 2022)<br />
+**Co-founder**
 
 - Created a company that sourced classic cars in Europe, shipped them to the US and sold them.
 - Given the timescales involved in our product life cycles we began the process prior to COVID. As the economic cost of COVID have lingered with regards to container shipping cost spiking massively, car parts manufacturing delays and the general economic downturn we made the hard decision to stop the business.
 - We did succesfully ship and sell multiple cars over the period, navigating incredibly stringent paperwork, establishing a global supply chain, negotiating with suppliers.
 
 **Lifted** (March 2020 - November 2021)  
-Operations Manager
+**Operations Manager**
 
 - Building out new systems and process across the business. Included projects like automating our Recruitment Funnel, building a Sales Pipeline and our own Track & Trace System. 
 - Helped shape the overall direction, sprint planning, bug capture/prioritisation across our apps. Working closely with our Tech Team we would map out what needed to covered in upcoming sprints to match business needs, organise testing parties before rollouts and help with the rollout of new features across the business.
 - Adopted Agile methodolies for my own team such as daily standups and weekly retros. Whilst not being a tech team this helped us have great visibility over a large range of responsibilites. The weekly retros allowed us to objectively look at how we worked which was crucial to being able to adapt and deal with the consistent fast growth of the company.
 
 **Lifted** (August 2019 - March 2020)  
-Operations Analyst
+**Operations Analyst**
 
 - Worked closely with our Tech Team on our web app and mobile apps. Included helping plot the roadmap of feature rollouts, recording and reporting on bugs and passing these changes on to our Carers in the field.
 - Oversaw the day-to-day management of our Carers across London. Starting with 5-10 Carers which grew to 25-30 in these early months. Integral to this was quickly building relationships and getting them to buy into our collective mission. From this buy in we were able to really push our growth to help more people.
 - Created a [Python Programme](https://github.com/amh4/wellness_automation) to harness the data we had to start delivering pro-active healthcare.
 
 **Parmenion Capital Partners** (February 2018 to June 2018)  
-Operations Associate
+**Operations Associate**
 
 - Assisted in the project to automate daily payment processing specififying and communicating the operational requirements for the new system accurately in meetings with the Development Team. Leading to a new system that saved up to 30 minutes of work per day.
 - Part of the team responsible for processing all client asset movements accounting for millions of pounds each day.
 - There was a strong culture of accountability and decisive action which helped to build trust both internally and externally. Where any issues were encountered an incident log would be recorded. Analysing why the issue arose, whether it was likely to occur again, our immediate action to resolve it as well as the permanent fix. 
 
 **Hargreaves Lansdown** (January 2017 to February 2018)  
-Investment Helpdesk Consultant
+**Investment Helpdesk Consultant**
 
 - Established and developed relationships with clients from a range of backgrounds through face-to-face meetings, phone calls and emails. 
 - Research and provid information on complex investment products to aid the investment decisions of our clients.
@@ -85,7 +85,7 @@ Investment Helpdesk Consultant
 - Won several competitons for new business brought onto the platform. 
 
 **Blueprint Capital - G7 Currency Markets** (December 2014 - November 2016)
-<br />Propietary Trader
+<br />**Propietary Trader**
 
 - Responsible for allocating $6 million per week in trading volume across all G7 Currency pairs.
 - Rapidly process information to make balanced investment decisions with solid risk management.
