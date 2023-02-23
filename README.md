@@ -41,7 +41,14 @@ I often think that I would need a thousand lifetimes to try and pursue everythin
 
 Other technologies and principles include: **Agile, OOP, TDD, MVC, DOM, Paired Programming, Tableplus, Postman, Render**
 
-## Work Experience
+## Experience
+**Makers** (November 2022 - March 2023)
+Software Engineering Student
+
+- Worked in groups of 4-8 members using Agile methods. Sprint planning, daily standups and retros.
+- Routinely used pair programming to approach problems and get fresh perspectives on how to solve them.
+- Used TDD to create every project, test driving them from the ground up
+- For more details please see **Projects** section above
 
 **Roland Bailey Imports US** (July 2020 - July 2022)
 Co-founder
@@ -97,14 +104,7 @@ Propietary Trader
 
 ## Education
 
-#### Makers Academy (November 2022 to March 2023)
-
-- Worked in groups of 4-8 members using Agile methods. Sprint planning, daily standups and retros.
-- Routinely used pair programming to approach problems and get fresh perspectives on how to solve them.
-- Used TDD to create every project, test driving them from the ground up
-- For more details please see **Projects** section above
-
-#### University of Plymouth (2010 to 2014)
+### University of Plymouth (2010 to 2014)
 
 #### MSc Finance Merit(2:1 Equivalent)
 
