@@ -84,7 +84,7 @@ Software Engineering Student
 - Responsible for training new Consultants, one-to-one's and performance reviews.
 - Won several competitons for new business brought onto the platform. 
 
-**Blueprint Capital - G7 Currency Markets** (December 2014 - November 2016)
+**Blueprint Capital - G7 Currency Markets** (January 2015 - November 2016)
 <br />**Propietary Trader**
 
 - Responsible for allocating $6 million per week in trading volume across all G7 Currency pairs.
