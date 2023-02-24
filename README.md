@@ -72,9 +72,9 @@ Software Engineering Student
 **Parmenion Capital Partners** (February 2018 to June 2018)  
 **Operations Associate**
 
-- Assisted in the project to automate daily payment processing specififying and communicating the operational requirements for the new system accurately in meetings with the Development Team. Leading to a new system that saved up to 30 minutes of work per day.
 - Part of the team responsible for processing all client asset movements accounting for millions of pounds each day.
-- There was a strong culture of accountability and decisive action which helped to build trust both internally and externally. Where any issues were encountered an incident log would be recorded. Analysing why the issue arose, whether it was likely to occur again, our immediate action to resolve it as well as the permanent fix. 
+- Stringent attention to detail with all capital allocations as all daily transactions of millions had to reconcile to the exact correct amount.
+- There was a strong culture of accountability and decisive action which helped to build trust both internally and externally. Where any issues were encountered an incident log would be recorded. Analysing why the issue arose, whether it was likely to occur again, our immediate action to resolve it as well as the permanent fix.
 
 **Hargreaves Lansdown** (January 2017 to February 2018)  
 **Investment Helpdesk Consultant**
