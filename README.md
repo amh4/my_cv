@@ -4,15 +4,15 @@
 
 The most genuine way I can describe myself is someone that fundamentally loves to learn and build things. Whether it's learning via books, podcasts, youtube videos or meeting interesting people I enjoy it all. My girlfriend and I are due to move in together soon and her main concern is that our flat will look like a library...which it probably will.
 
-I've always been drawn to big challenges where the learning curve never really plateaus. After spending 5 years in Financial Markets where the environment is always changing and the depth of knowledge required is never ending. I decided to take on a new challenge after becoming aware of a problem that I wanted to try and help fix.
+I've always been drawn to big challenges where the learning curve never really plateaus. After spending 5 years in Financial Markets where the environment is always changing and the depth of knowledge required is never ending, I decided to take on a new challenge after becoming aware of a problem that I wanted to try and help fix.
 
 Through personal circumstance one issue that my family got first hand experience in is how much the Home Care Sector is struggling in the U.K.
 
-After some deliberation I left my career in Asset Management to join a brand new startup as employee number 4 and we were going to try to fix it. We focused on building the Tech for future of care at home for the elderly and disabled as well as delivering care too.
+After some deliberation I left my career in Asset Management to join a brand new startup as employee number 4 and we were going to try to fix it. We focused on building the Tech for the future of care at home as well as delivering care too.
 
-Joining at the very start was an incredible experience seeing all the people we could help, the tech stack we built and my own personal growth. I helped see the company through our Seed and Series A Venture Capital fund raising, managed a team of 50+ people.
+Joining at the very start was an incredible experience seeing all the people we could help, the tech stack we built and my own personal growth. I helped see the company through our Seed and Series A Venture Capital fund raising, managed a team of 50+ people and worked with some incredible people.
 
-**A few of things about what we did:**
+**A few things we achieved:**
 
 [TechCrunch - Launch Coverage](https://techcrunch.com/2019/09/25/social-care-startup-lifted-raises-1-5m-for-end-to-end-elderly-care-platform/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALkZiOMlfsXbyoJrgmXjuyoG8BHY-9P_2a0FjZqZMSIgwzrQbQlDIqhQjTubA7JzWSlYPG1uCTtdTqKKUVE2Tbh1BJCON5NSX7kvqDhuAs79-dPOxgHPlNGYe-eYf-oTWT9UtvdlTe-Wli20fLUhtVSCJTJp7zFaV9F-gShJgdaT)
 
@@ -20,14 +20,14 @@ Joining at the very start was an incredible experience seeing all the people we 
 
 [LaingBuisson Award for Innovation](https://laingbuissonawards.com/previous-years-2/)
 
-I often think that I would need a thousand lifetimes to try and pursue everything I find interesting but sadly that’s not an option right now. After the worst of the pandemic was over for the healthcare sector I have taken the time to evaluate what I truly enjoy doing; building things, solving problems and being on a never ending learning curve. With that in mind and being heavily exposed to the tech development process at Lifted I decided to become a Software Engineer. Something which I can't believe I didn't think of years ago!
+I often think that I would need a thousand lifetimes to try and pursue everything I find interesting but sadly that’s not an option right now. After the worst of the pandemic was over for the healthcare sector I have taken the time to evaluate what I truly enjoy doing; building things, solving problems and being on that never ending learning curve. With that in mind, and being heavily exposed to the tech development process at Lifted, I decided to become a Software Engineer. Something which I can't believe I didn't think of years ago!
 
 ## Projects :building_construction:
 **A selection of group/solo projects built using Agile methods as well as solo projects**
 
 | Name                    | Description                                    |Group/Solo                      | Tech/tools                  |
 | ----------------------- | -----------------------------------------------|------------------------------------ | -----------------           |
-|[Acebook](https://github.com/amh4/acebook-social-media-app)| A React social media web app that allows users register/log in, to post, edit their contents, comment on posts, like posts, delete posts and add friends|Group| Javascript, React, Node, Jest, Cypress, MongoDB, HTML, CSS, Express|
+|[Acebook](https://github.com/amh4/acebook-social-media-app)| A React social media web app that allows users to register/log in, to post, edit their contents, comment on posts, like posts, delete posts and add friends|Group| Javascript, React, Node, Jest, Cypress, MongoDB, HTML, CSS, Express|
 |[Banking App](https://github.com/amh4/bank-tech-test)| Technical test completed to 24 hour deadline. Allows the user to use core bank features such as deposit/withdraw and print formatted statements |Solo|Javascript, Node, Jest|
 |[MakersBnB](https://github.com/tmccoy99/engineering-project-1) | AirBnB clone made in week 5 of the course. Users can register, log in, list/rent properties and approve/reject bookings and receive email notifications |Group| Ruby, HTML, CSS, Active Record, RSpec |
 |[News Site](https://github.com/amh4/newsapi-project) | Populates a web app using the Guardian API. The user can view the most recent stories and search by categories, each accompanied with it's photo |Solo|Javascript, Jest, HTML, CSS|
