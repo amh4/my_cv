@@ -43,9 +43,9 @@ Other technologies and principles include: **Agile, OOP, TDD, MVC, DOM, Paired P
 **Makers** (November 2022 - March 2023)<br />
 Software Engineering Student
 
+- Used TDD to create every project, test driving them from the ground up
 - Worked in groups of 4-8 members using Agile methods. Sprint planning, daily standups and retros.
 - Routinely used pair programming to approach problems and get fresh perspectives on how to solve them.
-- Used TDD to create every project, test driving them from the ground up
 - For more details please see **Projects** section above
 
 **Roland Bailey Imports US** (July 2020 - July 2022)<br />
