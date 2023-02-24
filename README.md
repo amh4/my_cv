@@ -2,7 +2,7 @@
 
 ### Who I Am
 
-I often think that I would need a thousand lifetimes to try and pursue everything I find interesting but sadly that’s not an option right now. After the worst of the pandemic was over for the healthcare sector I have taken the time to evaluate what I truly enjoy doing; building things, solving problems and being on that never ending learning curve. With that in mind, and being heavily exposed to the tech development process at Lifted, I decided to become a Software Engineer. Something which I can't believe I didn't think of years ago!
+I often think that I would need a thousand lifetimes to try and pursue everything I find interesting but sadly that’s not an option right now. After the worst of the pandemic was over for the healthcare sector I have taken the time to evaluate what I truly enjoy doing; building things, solving problems and being on that never ending learning curve. With that in mind, and being heavily exposed to the tech development process at in my role at Lifted, I decided to become a Software Engineer. Something which I can't believe I didn't think of years ago!
 
 The most genuine way I can describe myself is someone that fundamentally loves to learn and build things. Whether it's learning via books, podcasts, youtube videos or meeting interesting people I enjoy it all. My girlfriend and I are due to move in together soon and her main concern is that our flat will look like a library...which it probably will.
 
