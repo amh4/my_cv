@@ -80,7 +80,7 @@ Software Engineering Student
 **Investment Helpdesk Consultant**
 
 - Established and developed relationships with clients from a range of backgrounds through face-to-face meetings, phone calls and emails. 
-- Research and provid information on complex investment products to aid the investment decisions of our clients.
+- Research and provide information on complex investment products to aid the investment decisions of our clients.
 - Responsible for training new Consultants, one-to-one's and performance reviews.
 - Won several competitons for new business brought onto the platform. 
 
