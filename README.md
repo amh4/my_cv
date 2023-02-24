@@ -2,6 +2,8 @@
 
 ### Who I Am
 
+I often think that I would need a thousand lifetimes to try and pursue everything I find interesting but sadly that’s not an option right now. After the worst of the pandemic was over for the healthcare sector I have taken the time to evaluate what I truly enjoy doing; building things, solving problems and being on that never ending learning curve. With that in mind, and being heavily exposed to the tech development process at Lifted, I decided to become a Software Engineer. Something which I can't believe I didn't think of years ago!
+
 The most genuine way I can describe myself is someone that fundamentally loves to learn and build things. Whether it's learning via books, podcasts, youtube videos or meeting interesting people I enjoy it all. My girlfriend and I are due to move in together soon and her main concern is that our flat will look like a library...which it probably will.
 
 I've always been drawn to big challenges where the learning curve never really plateaus. After spending 5 years in Financial Markets where the environment is always changing and the depth of knowledge required is never ending, I decided to take on a new challenge after becoming aware of a problem that I wanted to try and help fix.
@@ -19,8 +21,6 @@ Joining at the very start was an incredible experience seeing all the people we 
 [Our Series A](https://techcrunch.com/2021/06/08/lifted-raises-6-2m-series-a-round-led-by-fuel-ventures-for-its-long-term-social-care-platform/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABSUng6l-pVmHHnqN4wLL3cCAV1CiTazCgQFu1X12IZVmNp7uzrWFR0DnXhqpNO0QzlffItceUE1JyYEsKtwYGZ7pL3m227rmLnCV1c8f6P84JCTD1wj4Pe_z_P-R1wvEGLPVahz0SoSOVtHqszpea-1RfXHcmkLdpq7-iRGB7Qi)
 
 [LaingBuisson Award for Innovation](https://laingbuissonawards.com/previous-years-2/)
-
-I often think that I would need a thousand lifetimes to try and pursue everything I find interesting but sadly that’s not an option right now. After the worst of the pandemic was over for the healthcare sector I have taken the time to evaluate what I truly enjoy doing; building things, solving problems and being on that never ending learning curve. With that in mind, and being heavily exposed to the tech development process at Lifted, I decided to become a Software Engineer. Something which I can't believe I didn't think of years ago!
 
 ## Projects :building_construction:
 **A selection of group/solo projects built using Agile methods as well as solo projects**
