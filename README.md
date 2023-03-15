@@ -2,17 +2,12 @@
 
 ### Who I Am
 
-The most genuine way I can describe myself is someone that fundamentally loves to build things, solve problems and be on that never ending learning curve. I often think that I would need a thousand lifetimes to try and pursue everything I find interesting. Unfortunately, while that’s not an option yet, being a Software Engineer means I get to challenge myself, constantly learn new technologies and work with awesome people to build amazing projects. 
+Software Engineering Bootcamp Graduate from Makers. Originally coming from a background in Asset Management and Startups.
+
+As a Full Stack Developer I get to do the things I fundamentally enjoy; solving tough problems with creative solutions, being part of a team that works to build things and learn as I go.  
 
 I've always been drawn to big challenges and after spending 5 years in Financial Markets where the environment is always changing and the depth of knowledge required is never ending, I decided to take on a new challenge after becoming aware of a problem that I wanted to try and help fix.
 
-Through personal circumstance one issue that my family got first hand experience in is how much the Home Care Sector is struggling in the U.K.
-
-After some deliberation I left my career in Asset Management to join a brand new startup as employee number 4 and we were going to try to fix it. We focused on building the Tech for the future of care at home as well as delivering care too.
-
-Joining at the very start was an incredible experience seeing all the people we could help, the tech stack we built and my own personal growth. I helped see the company through our Seed and Series A Venture Capital fund raising, managed a large team and worked with some incredible people.
-
-After the worst of the pandemic was over for the healthcare sector I have taken the time to evaluate what I truly enjoy doing, and after being heavily exposed to the tech development process at in my role at Lifted, I decided to become a Software Engineer. Something which I can't believe I didn't think of years ago!
 
 **A few things we achieved:**
 
