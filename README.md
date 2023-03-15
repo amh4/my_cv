@@ -105,7 +105,7 @@ Software Engineering Student
 
 #### BSc Economics
 
-- Disseration on whether Premier League Strikers are under or over(?!) paid. Spoiler alert: Some are actually underpaid...somehow
+- Dissertation on whether Premier League Strikers are under or over(?!) paid. Spoiler alert: Some are actually underpaid...somehow
 - Microeconomic Theory: Opportunity Cost, Production, Innovation and Supply/Demand Model
 - Macroeconomic Theory: Classical Economics, Keynesian, Austrian, International Trade
 - Game Theory
