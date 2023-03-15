@@ -60,7 +60,7 @@ Software Engineering Student
 
 - Building out new systems and process across the business. Included projects like automating our Recruitment Funnel, building a Sales Pipeline and our own Track & Trace System.
 - Helped shape the overall direction, sprint planning, bug capture/prioritisation across our apps. Working closely with our Tech Team we would map out what needed to covered in upcoming sprints to match business needs, organise testing parties before rollouts and help with the rollout of new features across the business.
-- Adopted Agile methodolies for my own team such as daily standups and weekly retros. Whilst not being a tech team this helped us have great visibility over a large range of responsibilites. The weekly retros allowed us to objectively look at how we worked which was crucial to being able to adapt and deal with the consistent fast growth of the company.
+- Adopted Agile methodologies for my own team such as daily standups and weekly retros. Whilst not being a tech team this helped us have great visibility over a large range of responsibilities. The weekly retros allowed us to objectively look at how we worked which was crucial to being able to adapt and deal with the consistent fast growth of the company.
 
 **Lifted** (August 2019 - March 2020)  
 **Operations Analyst**
