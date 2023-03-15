@@ -4,7 +4,7 @@
 
 Software Engineering Bootcamp Graduate, originally coming from a background in Asset Management and Startups.
 
-As a Full Stack Developer I get to do the things I genuinely enjoy; solving tough problems with creative solutions, being part of a team that works to build amazing things and constanly learning as I go.
+As a Full Stack Developer I get to do the things I genuinely enjoy; solving tough problems with creative solutions, being part of a team that works to build amazing things and constantly learning as I go.
 
 Having worked on a range of projects I have experience in Test Driven Development, Object Oriented Programming, both Front and Back End, Javascript, React, Node, Express, Ruby, HTML, CSS, PostgreSQL, Jest, Cypress and RSpec. In my own time working on some Python projects utilising Numpy, Pandas, Matplotlib and Tensorflow.
 
