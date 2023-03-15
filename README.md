@@ -87,7 +87,7 @@ Software Engineering Student
 **Blueprint Capital - G7 Currency Markets** (January 2015 - November 2016)
 <br />**Propietary Trader**
 
-- Responsible for allocating $6 million per week in trading volume across all G7 Currency pairs.
+- Responsible for investing $6 million per week in trading volume across all G7 Currency pairs.
 - Rapidly process information to make balanced investment decisions with solid risk management.
 - Was the first trader to test out the remote working trading platform. Executing all trades off premises, testing the platform, reporting on issues and suggesting additional features to implement.
 
