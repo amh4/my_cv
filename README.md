@@ -77,7 +77,7 @@ Software Engineering Student
 - There was a strong culture of accountability and decisive action which helped to build trust both internally and externally. Where any issues were encountered an incident log would be recorded. Analysing why the issue arose, whether it was likely to occur again, our immediate action to resolve it as well as the permanent fix.
 
 **Hargreaves Lansdown** (January 2017 to February 2018)  
-**Investment Helpdesk Consultant**
+**Investment Consultant**
 
 - Established and developed relationships with clients from a range of backgrounds through face-to-face meetings, phone calls and emails.
 - Research and provide information on complex investment products to aid the investment decisions of our clients.
