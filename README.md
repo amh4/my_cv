@@ -4,10 +4,11 @@
 
 Software Engineering Bootcamp Graduate from Makers. Originally coming from a background in Asset Management and Startups.
 
-As a Full Stack Developer I get to do the things I fundamentally enjoy; solving tough problems with creative solutions, being part of a team that works to build things and learn as I go.  
+As a Full Stack Developer I get to do the things I genuinely enjoy; solving tough problems with creative solutions, being part of a team that works to build amazing things and constanly learning as I go.
 
-I've always been drawn to big challenges and after spending 5 years in Financial Markets where the environment is always changing and the depth of knowledge required is never ending, I decided to take on a new challenge after becoming aware of a problem that I wanted to try and help fix.
+Having worked on a range of projects I have experience in Test Driven Development, Object Oriented Programming, both Front and Back End, Javascript, React, Node, Express, Ruby, HTML, CSS, PostgreSQL, Jest, Cypress and RSpec.
 
+Before joining Makers I was employee #4 at a Health Care startup where I gained first hand experience in Agile, worked on sprint planning and helping to debug the platform. Additionally, I developed as a leader over time, ultimately managing a large team of people both in the field and in person. Key to our collective success was communication, adapting quickly to new situations, learning from our mistakes and executing on our long term vision.
 
 **A few things we achieved:**
 
@@ -18,23 +19,25 @@ I've always been drawn to big challenges and after spending 5 years in Financial
 [LaingBuisson Award for Innovation](https://laingbuissonawards.com/previous-years-2/)
 
 ## Projects :building_construction:
+
 **A selection of group/solo projects built using Agile methods as well as solo projects**
 
-| Name                    | Description                                    |Group/Solo                      | Tech/tools            | Time to Complete     |
-| ----------------------- | -----------------------------------------------|--------------------------------| ----------------- |------------|
-|[Acebook](https://github.com/amh4/acebook-social-media-app)| A React social media web app that allows users to register/log in, to post, edit their contents, comment on posts, like posts, delete posts and add friends|Group| Javascript, React, Node, Jest, Cypress, MongoDB, HTML, CSS, Express| 10 Days|
-|[Banking App](https://github.com/amh4/bank-tech-test)| Technical test completed to a tight deadline. Allows the user to use core bank features such as deposit/withdraw and print formatted statements |Solo|Javascript, Node, Jest| 2 Day |
-|[MakersBnB](https://github.com/tmccoy99/engineering-project-1) | AirBnB clone made in week 5 of the course. Users can register, log in, list/rent properties and approve/reject bookings and receive email notifications |Group| Ruby, HTML, CSS, Active Record, RSpec | 4 Days |
-|[News Site](https://github.com/amh4/newsapi-project) | Populates a web app using the Guardian API. The user can view the most recent stories and search by categories, each accompanied with it's photo |Solo|Javascript, Jest, HTML, CSS| 2 Days |
-|[Health Tracker](https://github.com/amh4/health_tracker) | A programme to aggregate, clean and present timeseries healthcare data for proactive care delivery |Solo| Python, Numpy, Pandas, Matplotlib, Seaborn| 5 Days |
-|[Neural Networks](https://github.com/amh4/neural_networks) | Deep learning predictive models that predict if a song will be a hit, hotel booking cancellation likelihood and the strength of concrete |Solo| Python, Scikit-learn, Tensorflow, Matplotlib | 2 Weeks |
-|[Shop Manager System](https://github.com/amh4/shop-manager-challenge/tree/main/lib)| A store system to help create and manage orders |Solo|Ruby, SQL, RSpec| 2 Days |
-|[Takeaway Order System](https://github.com/amh4/takeaway_order_system)| The user can browse a menu, place orders and receive text updates via the Twilio API |Solo| Ruby, RSpec, TwilioAPI| 2 Days |
-|[Notes App](https://github.com/amh4/javascript-notes-app)| Web based notes app where user can add notes |Solo|Javascript, HTML, CSS, Jest| 2 Days |
+| Name                                                                                | Description                                                                                                                                                 | Group/Solo | Tech/tools                                                          | Time to Complete |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------- | ---------------- |
+| [Acebook](https://github.com/amh4/acebook-social-media-app)                         | A React social media web app that allows users to register/log in, to post, edit their contents, comment on posts, like posts, delete posts and add friends | Group      | Javascript, React, Node, Jest, Cypress, MongoDB, HTML, CSS, Express | 10 Days          |
+| [Banking App](https://github.com/amh4/bank-tech-test)                               | Technical test completed to a tight deadline. Allows the user to use core bank features such as deposit/withdraw and print formatted statements             | Solo       | Javascript, Node, Jest                                              | 2 Day            |
+| [MakersBnB](https://github.com/tmccoy99/engineering-project-1)                      | AirBnB clone made in week 5 of the course. Users can register, log in, list/rent properties and approve/reject bookings and receive email notifications     | Group      | Ruby, HTML, CSS, Active Record, RSpec                               | 4 Days           |
+| [News Site](https://github.com/amh4/newsapi-project)                                | Populates a web app using the Guardian API. The user can view the most recent stories and search by categories, each accompanied with it's photo            | Solo       | Javascript, Jest, HTML, CSS                                         | 2 Days           |
+| [Health Tracker](https://github.com/amh4/health_tracker)                            | A programme to aggregate, clean and present timeseries healthcare data for proactive care delivery                                                          | Solo       | Python, Numpy, Pandas, Matplotlib, Seaborn                          | 5 Days           |
+| [Neural Networks](https://github.com/amh4/neural_networks)                          | Deep learning predictive models that predict if a song will be a hit, hotel booking cancellation likelihood and the strength of concrete                    | Solo       | Python, Scikit-learn, Tensorflow, Matplotlib                        | 2 Weeks          |
+| [Shop Manager System](https://github.com/amh4/shop-manager-challenge/tree/main/lib) | A store system to help create and manage orders                                                                                                             | Solo       | Ruby, SQL, RSpec                                                    | 2 Days           |
+| [Takeaway Order System](https://github.com/amh4/takeaway_order_system)              | The user can browse a menu, place orders and receive text updates via the Twilio API                                                                        | Solo       | Ruby, RSpec, TwilioAPI                                              | 2 Days           |
+| [Notes App](https://github.com/amh4/javascript-notes-app)                           | Web based notes app where user can add notes                                                                                                                | Solo       | Javascript, HTML, CSS, Jest                                         | 2 Days           |
 
 Other technologies and principles include: **Agile, OOP, TDD, MVC, DOM, Paired Programming, Tableplus, Postman, Render**
 
 ## Experience :briefcase:
+
 **Makers** (November 2022 - March 2023)<br />
 Software Engineering Student
 
@@ -53,7 +56,7 @@ Software Engineering Student
 **Lifted** (March 2020 - November 2021)  
 **Operations Manager**
 
-- Building out new systems and process across the business. Included projects like automating our Recruitment Funnel, building a Sales Pipeline and our own Track & Trace System. 
+- Building out new systems and process across the business. Included projects like automating our Recruitment Funnel, building a Sales Pipeline and our own Track & Trace System.
 - Helped shape the overall direction, sprint planning, bug capture/prioritisation across our apps. Working closely with our Tech Team we would map out what needed to covered in upcoming sprints to match business needs, organise testing parties before rollouts and help with the rollout of new features across the business.
 - Adopted Agile methodolies for my own team such as daily standups and weekly retros. Whilst not being a tech team this helped us have great visibility over a large range of responsibilites. The weekly retros allowed us to objectively look at how we worked which was crucial to being able to adapt and deal with the consistent fast growth of the company.
 
@@ -74,10 +77,10 @@ Software Engineering Student
 **Hargreaves Lansdown** (January 2017 to February 2018)  
 **Investment Helpdesk Consultant**
 
-- Established and developed relationships with clients from a range of backgrounds through face-to-face meetings, phone calls and emails. 
+- Established and developed relationships with clients from a range of backgrounds through face-to-face meetings, phone calls and emails.
 - Research and provide information on complex investment products to aid the investment decisions of our clients.
 - Responsible for training new Consultants, one-to-one's and performance reviews.
-- Won several competitions for new business brought onto the platform. 
+- Won several competitions for new business brought onto the platform.
 
 **Blueprint Capital - G7 Currency Markets** (January 2015 - November 2016)
 <br />**Propietary Trader**
