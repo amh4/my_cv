@@ -10,8 +10,6 @@ Having worked on a range of projects I have experience in Test Driven Developmen
 
 Before joining Makers I was employee #4 at a Health Care startup where I gained first hand experience in Agile, worked on sprint planning and helping to debug the platform. Additionally, I developed as a leader over time, ultimately managing a large team of people both in the field and in person. Key to our collective success was communication, adapting quickly to new situations, learning from our mistakes and executing on our long term vision.
 
-I have been documenting my big career move [here on Medium](https://medium.com/@module.billet-0j) where you can follow my journey.
-
 **A few things we achieved:**
 
 [TechCrunch - Launch Coverage](https://techcrunch.com/2019/09/25/social-care-startup-lifted-raises-1-5m-for-end-to-end-elderly-care-platform/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALkZiOMlfsXbyoJrgmXjuyoG8BHY-9P_2a0FjZqZMSIgwzrQbQlDIqhQjTubA7JzWSlYPG1uCTtdTqKKUVE2Tbh1BJCON5NSX7kvqDhuAs79-dPOxgHPlNGYe-eYf-oTWT9UtvdlTe-Wli20fLUhtVSCJTJp7zFaV9F-gShJgdaT)
@@ -19,6 +17,8 @@ I have been documenting my big career move [here on Medium](https://medium.com/@
 [Our Series A](https://techcrunch.com/2021/06/08/lifted-raises-6-2m-series-a-round-led-by-fuel-ventures-for-its-long-term-social-care-platform/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABSUng6l-pVmHHnqN4wLL3cCAV1CiTazCgQFu1X12IZVmNp7uzrWFR0DnXhqpNO0QzlffItceUE1JyYEsKtwYGZ7pL3m227rmLnCV1c8f6P84JCTD1wj4Pe_z_P-R1wvEGLPVahz0SoSOVtHqszpea-1RfXHcmkLdpq7-iRGB7Qi)
 
 [LaingBuisson Award for Innovation](https://laingbuissonawards.com/previous-years-2/)
+
+Also, I have been documenting my big career move [here on Medium](https://medium.com/@module.billet-0j) where you can follow my journey.
 
 ## Projects :building_construction:
 
