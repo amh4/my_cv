@@ -2,13 +2,9 @@
 
 ### Who I Am
 
-Software Engineering Bootcamp Graduate, originally coming from a background in Asset Management and Startups.
+Software Engineering Bootcamp Graduate, originally with a background in Asset Management and Startups. As a Full Stack Developer I get to do the things I genuinely enjoy; solving tough problems with creative solutions, being part of a team that works to build amazing things and constantly learning as I go.
 
-As a Full Stack Developer I get to do the things I genuinely enjoy; solving tough problems with creative solutions, being part of a team that works to build amazing things and constantly learning as I go.
-
-Having worked on a range of projects I have experience in Test Driven Development, Object Oriented Programming, both Front and Back End, Javascript, React, Node, Express, Ruby, HTML, CSS, PostgreSQL, Jest, Cypress and RSpec. In my own time working on some Python projects utilising Numpy, Pandas, Matplotlib and Tensorflow.
-
-Before joining Makers I was employee #4 at a Health Care startup where I gained first hand experience in Agile, worked on sprint planning and helping to debug the platform. Additionally, I developed as a leader over time, ultimately managing a large team of people both in the field and in person. Key to our collective success was communication, adapting quickly to new situations, learning from our mistakes and executing on our long term vision.
+Prior to joining Makers I was employee #4 at a successful Health Care startup where I gained first hand experience in Agile methodologies. Additionally, I developed as a leader over time, ultimately managing a large team of people both in the field and in person. Key to our collective success was communication, adapting quickly to new situations, learning from our mistakes and executing on our long term vision.
 
 **A few things we achieved:**
 
@@ -26,6 +22,7 @@ Also, I have been documenting my big career move [here on Medium](https://medium
 
 | Name                                                                                | Description                                                                                                                                                   | Group/Solo | Tech/tools                                                          | Time to Complete |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------- | ---------------- |
+| [Sent-ence-iment](https://github.com/amh4/sentiment-analysis)                       | A Machine Learning Natural language Processing app that can gauge the positivity/negativity of a phrase provided by the user.                                 | Paired     | Python, Flask, Javascript, React                                    | 5 Days           |
 | [Destination Unknown](https://github.com/amh4/destination-unknown)                  | A travel comparison site that gives you flight prices, itinerary recommendations and more for your destination by aggregating the results from multiple APIs. | Group      | Javascript, Node, Express, React, Jest, Cypress, HTML, CSS          | 8 Days           |
 | [Acebook](https://github.com/amh4/acebook-mern-stack)                               | A React social media web app that allows users to register/log in, to post, edit their contents, comment on posts, like posts, delete posts and add friends   | Group      | Javascript, React, Node, Jest, Cypress, MongoDB, HTML, CSS, Express | 10 Days          |
 | [MakersBnB](https://github.com/tmccoy99/engineering-project-1)                      | AirBnB clone made in week 5 of the course. Users can register, log in, list/rent properties and approve/reject bookings and receive email notifications       | Group      | Ruby, HTML, CSS, Active Record, RSpec                               | 4 Days           |
