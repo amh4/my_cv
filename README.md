@@ -40,31 +40,33 @@ Other technologies and principles include: **Agile, OOP, TDD, MVC, DOM, Paired P
 **Makers** (November 2022 - March 2023)<br />
 Software Engineering Student
 
-- Used TDD to create every project, test driving them from the ground up
-- Worked in groups of 4-8 members using Agile methods. Sprint planning, daily standups and retros.
-- Routinely used pair programming to approach problems and get fresh perspectives on how to solve them.
-- For more details please see **Projects** section above
+- Makers is an intensive 4 month bootcamp created and run by industry leading engineers. Producing language agnostic, self-sufficient software engineers.
+- Learnt key concepts such as Test Driven Development, Object Oriented Programming, Agile and REST APIs. This was taught in conjunction with Full Stack Development using Javascript, React, Node, Ruby, PostgreSQL and Python.
+- Working to tight time frames we completed a range of individual, paired programming and team work.
+- An extensive EI curriculum focusing on teamwork, empathy and feedback in a technical environment.
 
 **Roland Bailey Imports US** (July 2020 - July 2022)<br />
-**Co-founder**
+**Director/Co-Owner**
 
 - Created a company that sourced classic cars in Europe, shipped them to the US and sold them.
-- Generated over $50,000 in our first 12 months
+- Generated over $50,000 in our first 12 months.
+- Used our initiative to overcome large logistical and regulatory hurdles to ship the cars ourselves, reducing costs by thousands per vehicle.
 - Given the timescales involved in our product life cycles we began the process prior to COVID. As the economic cost of COVID lingered with regards to container shipping cost, car parts manufacturing delays and the general economic downturn we made the hard decision to stop the business.
 
 **Lifted** (March 2020 - November 2021)  
 **Operations Manager**
 
-- Building out new systems and process across the business. Included projects like automating our Recruitment Funnel, building a Sales Pipeline and our own Track & Trace System.
-- Helped shape the overall direction, sprint planning, bug capture/prioritisation across our apps. Working closely with our Tech Team we would map out what needed to covered in upcoming sprints to match business needs, organise testing parties before rollouts and help with the rollout of new features across the business.
-- Adopted Agile methodologies for my own team such as daily standups and weekly retros. Whilst not being a tech team this helped us have great visibility over a large range of responsibilities. The weekly retros allowed us to objectively look at how we worked which was crucial to being able to adapt and deal with the consistent fast growth of the company.
+- Streamlined business operations and improved inter-team collaboration by implementing new systems and processes. For example, creating a new Recruitment Funnel that cut candidate processing time from 2/3 weeks to 2 days. Allowing us to process ~6x the number of applicants.
+- Sprint planning, bug capture/prioritisation and plotting the roadmap across our apps shaping the direction of our tech stack.
+- Adopted Agile methodologies for my own team such as daily stand-ups and weekly retros. The weekly retros allowed us to objectively look at how we worked which was crucial to being able to adapt and deal with the consistent fast growth of the company.
+- Worked across projects communicating specifications, working on designs and feedback between our Development Team and other stakeholders such as our Health Care and Sales teams.
 
 **Lifted** (August 2019 - March 2020)  
 **Operations Analyst**
 
-- Worked closely with our Tech Team on our web app and mobile apps. Included helping plot the roadmap of feature rollouts, recording and reporting on bugs and passing these changes on to our Carers in the field.
-- Oversaw the day-to-day management of our Carers across London. Starting with 5-10 Carers which grew to 25-30 in these early months. Integral to this was quickly building relationships and getting them to buy into our collective mission. From this buy in we were able to really push our growth to help more people.
 - Created a [Python Programme](https://github.com/amh4/wellness_automation) to harness the data we had to start delivering pro-active healthcare.
+- Oversaw the day-to-day management of our Carers across London. Starting with 5-10 Carers which grew to 25-30 in these early months. Building strong relationships quickly, getting buy-in to our collective mission.
+- Responsible for all company finances covering invoices, expenses and company payroll.ur collective mission. From this buy in we were able to really push our growth to help more people.
 
 **Parmenion Capital Partners** (February 2018 to June 2018)  
 **Operations Associate**
@@ -109,4 +111,6 @@ Software Engineering Student
 
 ## Hobbies
 
-Going outside my comfort zone. Going to countries where I don't speak the language, no phone data and just going for it. Recently visiting the Matterhorn and we plan on going to Everest next year. I have played golf, tennis, football, rugby, american football, squash and my knees certainly feel like it. If you hire me apologies for the sound I make as I stand up from my chair, it's involuntary.
+I’ve always loved playing sport for being part of a bigger team and its competitive aspects. Over time I have played golf, tennis, football and American football.
+
+Outside of programming languages I also like foreign languages and have a 390 day streak of Spanish lessons on Duolingo.
