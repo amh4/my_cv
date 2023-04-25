@@ -22,6 +22,7 @@ Also, I have been documenting my big career move [here on Medium](https://medium
 
 | Name                                                                                | Description                                                                                                                                                   | Group/Solo | Tech/tools                                                          | Time to Complete |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------- | ---------------- |
+| [Trade Vision](https://github.com/amh4/sentiment-analysis)                          | A web app that enables users to control the UI, to buy/sell investments, with hand gestures via their webcam and Real Time Object Detection                   | Paired     | Javascript, React, Node, HTML, CSS                                  | 10 Days          |
 | [Sent-ence-iment](https://github.com/amh4/sentiment-analysis)                       | A Machine Learning Natural language Processing app that can gauge the positivity/negativity of a phrase provided by the user.                                 | Paired     | Python, Flask, Javascript, React                                    | 5 Days           |
 | [Destination Unknown](https://github.com/amh4/destination-unknown)                  | A travel comparison site that gives you flight prices, itinerary recommendations and more for your destination by aggregating the results from multiple APIs. | Group      | Javascript, Node, Express, React, Jest, Cypress, HTML, CSS          | 8 Days           |
 | [Acebook](https://github.com/amh4/acebook-mern-stack)                               | A React social media web app that allows users to register/log in, to post, edit their contents, comment on posts, like posts, delete posts and add friends   | Group      | Javascript, React, Node, Jest, Cypress, MongoDB, HTML, CSS, Express | 10 Days          |
@@ -51,13 +52,12 @@ Software Engineering Student
 - Created a company that sourced classic cars in Europe, shipped them to the US and sold them.
 - Generated over $50,000 in our first 12 months.
 - Used our initiative to overcome large logistical and regulatory hurdles to ship the cars ourselves, reducing costs by thousands per vehicle.
-- Given the timescales involved in our product life cycles we began the process prior to COVID. As the economic cost of COVID lingered with regards to container shipping cost, car parts manufacturing delays and the general economic downturn we made the hard decision to stop the business.
 
 **Lifted** (March 2020 - November 2021)  
 **Operations Manager**
 
 - Streamlined business operations and improved inter-team collaboration by implementing new systems and processes. For example, creating a new Recruitment Funnel that cut candidate processing time from 2/3 weeks to 2 days. Allowing us to process ~6x the number of applicants.
-- Sprint planning, bug capture/prioritisation and plotting the roadmap across our apps shaping the direction of our tech stack.
+- Bug capture, prioritisation and plotting the roadmap across our apps shaping the direction of our tech stack.
 - Adopted Agile methodologies for my own team such as daily stand-ups and weekly retros. The weekly retros allowed us to objectively look at how we worked which was crucial to being able to adapt and deal with the consistent fast growth of the company.
 - Worked across projects communicating specifications, working on designs and feedback between our Development Team and other stakeholders such as our Health Care and Sales teams.
 
