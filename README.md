@@ -4,7 +4,7 @@
 
 Software Engineering Bootcamp Graduate, originally with a background in Asset Management and Startups. As a Full Stack Developer I get to do the things I genuinely enjoy; solving tough problems with creative solutions, being part of a team that works to build amazing things and constantly learning as I go.
 
-Prior to joining Makers I was employee #4 at a successful Health Care startup where I gained first hand experience in Agile methodologies. Additionally, I developed as a leader over time, ultimately managing a large team of people both in the field and in person. Key to our collective success was communication, adapting quickly to new situations, learning from our mistakes and executing on our long term vision.
+Prior to joining Makers I was employee #4 at a successful [Health Care startup](https://www.liftedcare.com/) where I gained first hand experience in Agile methodologies. Additionally, I developed as a leader over time, ultimately managing a large team of people both in the field and in person. Key to our collective success was communication, adapting quickly to new situations, learning from our mistakes and executing on our long term vision.
 
 **A few things we achieved:**
 
